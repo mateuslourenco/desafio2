@@ -1,43 +1,43 @@
 * {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 26px;
-    color: #293651;
-    font-weight: normal;
+  font-family: "Montserrat", sans-serif;
+  font-size: 26px;
+  color: #293651;
+  font-weight: normal;
 }
 
 .container {
-    max-width: 700px;
-    margin: 50px auto;
+  max-width: 700px;
+  margin: 50px auto;
 }
 
 .espacamento {
-    letter-spacing: 1.6pt;
+  letter-spacing: 1.6pt;
 }
 
 .cor1 {
-    color: #1DA68F;
-    
+  color: #1da68f;
 }
 .nome {
-    font-size: 36px;
-    font-weight: bolder;
+  font-size: 36px;
+  font-weight: bolder;
 }
-.info p, .info li{
-    font-size: 18px;
-    color: rgb(100, 99, 99);
+.info p,
+.info li {
+  font-size: 18px;
+  color: rgb(100, 99, 99);
 }
 .p-btn {
-    margin-top: 40px;
+  margin-top: 40px;
 }
 .btn {
-    background-color: #1DA68F;
-    border-radius: 5px;
-    padding: 12px 50px;
-    color: white;
-    text-decoration: none;
-    font-size: 16px;
+  background-color: #1da68f;
+  border-radius: 5px;
+  padding: 12px 50px;
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
 }
 
 .btn:hover {
-    background-color: #116b5c;
+  background-color: #116b5c;
 }
