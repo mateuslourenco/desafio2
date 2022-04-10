@@ -41,3 +41,11 @@
 .btn:hover {
   background-color: #116b5c;
 }
+
+.foto {
+  text-align: center;
+}
+
+.foto img {
+  width: 400px;
+}
